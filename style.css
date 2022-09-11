@@ -1,0 +1,106 @@
+body{
+    background: url(./png/event_bg.jpg);
+    box-sizing: border-box;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0px 0px 0px 350px;
+}
+
+.card{
+    
+    border-radius: 30px;
+    background: rgb(235, 229, 229);
+}
+
+a{
+    color: rgb(65, 172, 118);
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.biografy{
+/* background-color: cornsilk; */
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+.parametr{
+    padding: 0px 0px 0px 50px;
+}
+h1{
+font-size: 75px;
+}
+.ebalo{
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 25);
+    border-radius: 100%;
+    width: 120px;
+    top: 43%;
+    left: 44%;
+    transform: translate(1000px,-200px);
+    -webkit-transform: translate(1000px,-200px);
+}
+.citata{
+    box-sizing: border-box;
+    max-width: 350px;
+    font-size: 18px;
+    font-style: oblique;
+    margin: -200px 0px 0 900px;
+}
+h2{
+    text-align: center;
+}
+.info{
+    padding: 5px 0 5px 0;
+    margin: 0px 0px 0px 350px;
+    box-sizing: border-box;
+    max-width: 500px;
+    text-align: center;
+    font-size: 19px;
+    outline: 1px solid #AAAA;
+}
+
+.info p{
+    font-family: ;
+}
+
+.info h3{
+    color: #868988;
+}
+h3{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.oxy{
+    box-sizing: border-box;
+    width: 450px;
+    border-radius: 10px;
+    margin: 10px 0 5px 15px;
+}
+.galary img{
+    box-sizing: border-box;
+    width: 350px;
+    height: 350px;
+    margin: 0px 0px 0px 400px;
+    padding: 10px 0px 15px 0px;
+    border-radius: 30px;
+}
+
+.list{
+    padding: 0px 0px 0px 35px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.spisok{
+    box-sizing: border-box;
+    background-color: rgb(156, 221, 205);
+    max-width: 450px;
+    margin:0 0 0 15px;
+    border-radius: 15px;
+}
+
+.aboba{
+    font-size: larger;
+    padding: 0 0 0 10px;
+}
